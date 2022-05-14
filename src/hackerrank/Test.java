@@ -5,11 +5,11 @@ import java.util.ArrayList;
 public class Test {
     
     public static void main(String[] args) {
-        //testApplesAndOranges();
+        testApplesAndOranges();
         //testBreakingTheRecords();
         //testCatsAndMouse();
         //testGradingStudents();
-        testSubarrayDivision();
+        //testSubarrayDivision();
     }
     
     public static void testApplesAndOranges(){
